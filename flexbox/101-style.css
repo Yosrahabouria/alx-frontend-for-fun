@@ -19,11 +19,10 @@
 }
 
 .box1 {
-  background-color: #1fcd6c;
-}
+  background-color: rgb(0, 128, 0);
   
 .box5 {
-  background-color: rgb(255, 174, 0);
+  background-color: #FFA500;
 }
   
 .box2, .box4 {
@@ -34,11 +33,11 @@
 }
   
 .box2 {
-  background-color: dodgerblue;
+  background-color: #0000ff;
 }
 
 .box4 {
-  background-color: violet;
+  background-color: rgb(48, 25, 52);
 }
 
 .box3 {
