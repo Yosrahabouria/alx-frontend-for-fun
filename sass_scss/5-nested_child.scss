@@ -2,7 +2,6 @@ $color1: #3D3D3D;
 $colorclass: #FF0000;
 
 body {
-  color: $color1; 
-   .red {
+  color: $color1; }
+  body > .red {
     color: $colorclass; }
-    }
